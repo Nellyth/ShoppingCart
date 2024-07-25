@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-shopping-cart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nellyth/ShoppingCart.git"
+  },
+  "author": "TheAbsoluteCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nellyth/ShoppingCart/issues"
+  },
+  "homepage": "https://github.com/Nellyth/ShoppingCart#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
